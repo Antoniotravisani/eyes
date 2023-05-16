@@ -1,13 +1,6 @@
 # EYES PROJECT
 
- <div class="eyes">
-            <div class="eye">
-                <div class="ball"></div>
-            </div>
-            <div class="eye">
-                <div class="ball"></div>
-            </div>
-        </div>
+
 
 ## [DESCRIPTION]
 
